@@ -6,4 +6,4 @@ You can check out the live version of the app by clicking on Preview :
 
 # 👉[preview](http://127.0.0.1:5500/Weather_projt/index.html)
 
-![image](http://127.0.0.1:5500/Weather_projt/index.html)
+![image](https://www.linkpicture.com/q/weatherforecast.jpg)
